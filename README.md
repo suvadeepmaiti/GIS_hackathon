@@ -5,7 +5,7 @@ __Team Name__: Team Rocket
 
 **Team Members**:
 - Amit Sharma
--  Abhiroop Talasila
+- Abhiroop Talasila
 - Suvadeep Maiti
 - Shivam Sharma
 - Ekansh Chauhan
