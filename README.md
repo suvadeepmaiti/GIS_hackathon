@@ -9,6 +9,10 @@ __Team Name__: __Team Name__: Firefly
 - Shivam Sharma
 - Ekansh Chauhan
 
+# Road Extraction Using K-Means Clustering and Morphological Operations
+
+![all steps](./images/all-steps.png)
+
 ## Code Structure
 
 The code is structured as follows:
