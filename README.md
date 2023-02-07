@@ -11,7 +11,7 @@ __Team Name__: __Team Name__: Team Rocket
 
 # Project Pipeline
 
-![all steps](./Images/pipeline.png)
+![alt text](../Images/pipeline.png)
 
 ## Code Structure
 
