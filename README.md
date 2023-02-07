@@ -9,9 +9,9 @@ __Team Name__: __Team Name__: Team Rocket
 - Shivam Sharma
 - Ekansh Chauhan
 
-# Road Extraction Using K-Means Clustering and Morphological Operations
+# Project Pipeline
 
-![all steps](./images/all-steps.png)
+![all steps](./Images/pipeline.png)
 
 ## Code Structure
 
