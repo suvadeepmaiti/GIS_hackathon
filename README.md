@@ -1,6 +1,6 @@
 # GIS_hackathon
 GIS hackathon 
-__Team Name__: __Team Name__: Firefly
+__Team Name__: __Team Name__: Team Rocket
 
 **Team Members**:
 - Amit Sharma
