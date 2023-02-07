@@ -24,7 +24,7 @@ The code is structured as follows:
 ├── Code
 │   ├── Road_extraction_using_K_Means_clustering_.ipynb
 │   ├── image_dilation_and_erosion.ipynb
-│   ├── reference_image.ipynb
+|
 ├── images
 
 ```
